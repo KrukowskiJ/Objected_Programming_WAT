@@ -5,6 +5,7 @@
 
 using namespace std;
 
+
 void Tank::fight(Tank* enemy)
 {
 	cout << "\n\nczolg " << this->id << " walczy z " << enemy->id << "\n";
