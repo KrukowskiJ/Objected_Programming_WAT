@@ -1,0 +1,9 @@
+﻿  LAB1_TANKS.cpp
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(12,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(23,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(34,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(59,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(65,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(107,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kruko\Desktop\LAB1_TANKS\LAB1_TANKS.cpp(116,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  LAB1_TANKS.vcxproj -> C:\Users\kruko\Desktop\LAB1_TANKS\Debug\LAB1_TANKS.exe
