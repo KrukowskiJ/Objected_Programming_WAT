@@ -1,5 +1,0 @@
-﻿  LAB1_TANKS.cpp
-C:\Users\kruko\Desktop\Objected_Programming_WAT\LAB1_TANKS.cpp(34,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Tank.cpp
-  Generowanie kodu...
-  LAB1_TANKS.vcxproj -> C:\Users\kruko\Desktop\Objected_Programming_WAT\x64\Debug\LAB1_TANKS.exe

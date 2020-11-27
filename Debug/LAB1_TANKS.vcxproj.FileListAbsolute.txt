@@ -1,4 +1,0 @@
-C:\Users\kruko\source\repos\LAB1_TANKS\Debug\LAB1_TANKS.exe
-C:\Users\kruko\source\repos\LAB1_TANKS\Debug\LAB1_TANKS.pdb
-C:\Users\kruko\Desktop\LAB1_TANKS\Debug\LAB1_TANKS.exe
-C:\Users\kruko\Desktop\LAB1_TANKS\Debug\LAB1_TANKS.pdb
